@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Md. Shahria Alam 👋
 
 ## 🛡️ Cybersecurity Professional & Ethical Hacker
@@ -96,4 +95,3 @@ All my work follows strict ethical guidelines:
 ---
 
 *Last updated: June 2025*
-```
