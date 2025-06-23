@@ -69,6 +69,10 @@ I am committed to:
 - ✅ **Continuous Learning** and knowledge sharing
 - ✅ **Community Contribution** to cybersecurity awareness
 
+## Course Certificate
+![Practical Ethical Hacking Certificate](UC-6f550fb9-4018-4421-b26d-20f5bf973bb9.jpg)
+
+
 ### 📫 Let's Connect
 
 - **Email**: [mdshahriaalam2@gmail.com](mailto:mdshahriaalam2@gmail.com)
